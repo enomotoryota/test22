@@ -9,8 +9,5 @@
     "main.967c427b.js.map": "/enomotoryota/test22.git/static/js/main.967c427b.js.map",
     "453.77e02a14.chunk.js.map": "/enomotoryota/test22.git/static/js/453.77e02a14.chunk.js.map"
   },
-  "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.967c427b.js"
-  ]
+  "entrypoints": ["static/css/main.f855e6bc.css", "static/js/main.967c427b.js"]
 }

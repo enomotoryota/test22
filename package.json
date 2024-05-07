@@ -1,5 +1,5 @@
 {
-  "homepage": "https://yourusername.github.io/enomotoryota/test22.git",
+  "homepage": "./",
   "name": "test22",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-     "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
